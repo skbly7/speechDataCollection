@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SSAD</string>
+    <string name="button1">Open</string>
+    <string name="button2">Record</string>
+    <string name="button3">Stop</string>
+    <string name="button4">Previous</string>
+    <string name="button5">Play</string>
+    <string name="button6">Next</string>
+    <string name="end">end reached</string>
+    <string name="start">starting reached</string>
+    <string name="filearea">display content here</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
