@@ -47,6 +47,7 @@ public class MainActivity extends Activity {
 				 	mRecorder = new MediaRecorder();
 			        mRecorder.setAudioSource(MediaRecorder.AudioSource.MIC);
 			        mRecorder.setOutputFormat(MediaRecorder.OutputFormat.THREE_GPP);
+				AudioRecordTest();
 			        mRecorder.setOutputFile(mFileName);
 			        mRecorder.setAudioEncoder(MediaRecorder.AudioEncoder.AMR_NB);
 
